@@ -1,4 +1,4 @@
-# Agentic AI Projects
+# Agentic AI 
 
 This repository contains a set of beginner-friendly **agentic AI** projects built while learning concepts like basic chat apps, memory, RAG, ReAct, ReWOO, and multi-agent systems. It is written as both a portfolio repository for first-time visitors and a personal memory document so the project can be understood later without having to rediscover everything.
 
