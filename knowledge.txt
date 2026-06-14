@@ -1,0 +1,6 @@
+Sampath is a student at VIT-AP.
+Sampath is learning backend development and full stack projects.
+Sampath is also learning DSA.
+Sampath is interested in agentic AI.
+Sampath attends hackathons.
+Sampath prefers structured learning over random tutorials.
